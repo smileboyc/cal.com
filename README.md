@@ -5,7 +5,6 @@
   </a>
 
   <h3 align="center">Cal.com</h3>
-
   <p align="center">
     The open-source Calendly successor.
     <br />
