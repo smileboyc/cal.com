@@ -20,7 +20,6 @@
     <a href="https://cal.com/roadmap">Roadmap</a>
   </p>
 </p>
-
 <p align="center">
    <a href="https://www.producthunt.com/products/cal-com"><img src="https://img.shields.io/badge/Product%20Hunt-%231%20Product%20of%20the%20Month-%23DA552E" alt="Product Hunt"></a>
    <img src="https://api.checklyhq.com/v1/badges/groups/1120718?style=flat&theme=default" alt="Checkly QA">
